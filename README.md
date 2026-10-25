@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:7C3AED&height=200&section=header&text=Weiki&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,45:DDD6FE,100:C4B5FD&height=200&section=header&text=Weiki&fontSize=56&fontColor=4C1D95&animation=fadeIn&fontAlignY=38"/>
 
 <a href="https://arrebol.cn"><img src="https://img.shields.io/badge/Website-arrebol.cn-7C3AED?style=for-the-badge&logo=Hugo&logoColor=white"></a>
 <a href="mailto:weiki808@163.com"><img src="https://img.shields.io/badge/Email-contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -124,12 +124,12 @@
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Weiki886&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=818CF8&icon_color=818CF8&text_color=CBD5E1">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weiki886&layout=compact&hide_border=true&bg_color=0F172A&title_color=818CF8&text_color=CBD5E1&langs_count=10">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Weiki886&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=475569">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weiki886&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569&langs_count=10">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Weiki886&hide_border=true&background=0F172A&stroke=0F172A&ring=818CF8&fire=FB7185&currStreakLabel=818CF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B">
+<img src="https://streak-stats.demolab.com?user=Weiki886&hide_border=true&background=FFFFFF&stroke=DDD6FE&ring=8B5CF6&fire=FB7185&currStreakLabel=7C3AED&sideLabels=64748B&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8">
 
 </div>
 
