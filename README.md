@@ -47,7 +47,7 @@
 - 本地优先 · 默认只读 · 写操作可审计
 - 单二进制 / 零配置的极致开发者体验
 - 设计文档先行，测试与实现同行
-- 偶尔写作于 <a href="https://arrebol.cn">arrebol.cn</a>
+- 自动化优先：重复三次的事，就把它做成工具
 
 <img alt="" width="430" height="1" src="https://raw.githubusercontent.com/Weiki886/Weiki886/main/assets/spacer.png">
 
