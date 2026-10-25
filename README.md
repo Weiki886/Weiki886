@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:7C3AED&height=200&section=header&text=Weiki&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38"/>
 
 <a href="https://arrebol.cn"><img src="https://img.shields.io/badge/Website-arrebol.cn-7C3AED?style=for-the-badge&logo=Hugo&logoColor=white"></a>
-<a href="mailto:weiki886@163.com"><img src="https://img.shields.io/badge/Email-contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:weiki808@163.com"><img src="https://img.shields.io/badge/Email-contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/Weiki886?tab=followers"><img src="https://img.shields.io/github/followers/Weiki886?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=2563EB"></a>
 
 <br><br>
@@ -26,7 +26,7 @@
 >
 > 好的工具应以最体面的方式「无感」：可预期、可组合、可信赖。
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -36,6 +36,8 @@
 - **Memory** —— Agent 长期记忆与向量检索
 - **Safety** —— 工具调用的权限边界与沙箱执行
 - **DX** —— 编码 Agent 的工程化交付
+
+<img alt="" width="430" height="1" src="https://raw.githubusercontent.com/Weiki886/Weiki886/main/assets/spacer.png">
 
 </td>
 <td valign="top" width="50%">
@@ -47,6 +49,8 @@
 - 设计文档先行，测试与实现同行
 - 偶尔写作于 <a href="https://arrebol.cn">arrebol.cn</a>
 
+<img alt="" width="430" height="1" src="https://raw.githubusercontent.com/Weiki886/Weiki886/main/assets/spacer.png">
+
 </td>
 </tr>
 </table>
@@ -55,18 +59,62 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Languages-64748B?style=flat-square">
+<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+<br>
+
+<img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-64748B?style=flat-square">
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-213547?style=flat-square&logo=pinia&logoColor=FFD859)
+![Vue Router](https://img.shields.io/badge/Vue%20Router-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=flat-square&logo=element&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20%26%20AI-64748B?style=flat-square">
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7C3AED?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-2D3748?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+<br>
+
+<img src="https://img.shields.io/badge/Infra%20%26%20Tools-64748B?style=flat-square">
+<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Pandoc](https://img.shields.io/badge/Pandoc-386CB0?style=flat-square&logo=pandoc&logoColor=white)
 
 </div>
 
