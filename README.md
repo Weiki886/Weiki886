@@ -119,17 +119,17 @@
 <div align="center">
 
 <a href="https://github.com/Weiki886">
-  <img width="100%" src="https://ghchart.rshah.org/818CF8/Weiki886" alt="contribution chart"/>
+  <img width="100%" src="https://ghchart.rshah.org/818CF8/Weiki886?v=20261026" alt="contribution chart"/>
 </a>
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Weiki886&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=475569">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weiki886&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569&langs_count=10">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Weiki886&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=475569&v=20261026">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weiki886&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569&langs_count=10&v=20261026">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Weiki886&hide_border=true&background=FFFFFF&stroke=DDD6FE&ring=8B5CF6&fire=FB7185&currStreakLabel=7C3AED&sideLabels=64748B&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8">
+<img src="https://streak-stats.demolab.com?user=Weiki886&hide_border=true&background=FFFFFF&stroke=DDD6FE&ring=8B5CF6&fire=FB7185&currStreakLabel=7C3AED&sideLabels=64748B&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8&v=20261026">
 
 </div>
 
