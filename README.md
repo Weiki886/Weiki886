@@ -124,8 +124,8 @@
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Weiki886&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=475569&v=20261026">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weiki886&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569&langs_count=10&v=20261026">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Weiki886&theme=github&hide_logo=true&bg_color=FFFFFF&border_color=DDD6FE&title_color=7C3AED&text_color=475569&icon_color=8B5CF6&v=20261030" alt="GitHub statistics">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Weiki886&theme=github&bg_color=FFFFFF&border_color=DDD6FE&title_color=7C3AED&text_color=475569&chart_color=8B5CF6&v=20261030" alt="Most used languages">
 
 <br>
 
