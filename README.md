@@ -16,11 +16,11 @@
 
 ## 👋 About Me
 
-你好，我是 **Weiki** —— 一名专注于 **AI Agent 基础设施与开发者工具** 的工程师。
+你好，我是 **Weiki**，专注于 **AI Agent 基础设施、可靠软件与开发者体验**。
 
-在 Agent 开始接管越来越多工作的时代，我在认真打磨**人与 Agent 之间的那一层**：给只会读文字的 Agent 接上眼睛，让它安全地调用工具、操控已经打开的浏览器，并为跨越数天乃至数周的长周期任务设计可追溯的长期记忆。
+我关注复杂系统如何变得可理解、可验证、可持续：让 Agent 在长周期任务中拥有可追溯的记忆，让线上故障沿着发布、告警与运行证据逐步还原，也让想法通过清晰的内容工作流和代码创作转化为真正可用的工具。
 
-我同样享受从零到一构建完整产品：AI 驱动的数学建模平台、WordPress 主题、格式转换工具、文档模板集……**文档和代码同等重要，是我每个项目的底线。**
+从检索与协议，到数据边界、失败恢复，再到音乐驱动的确定性影像，我喜欢把开放式问题收敛成有明确契约、能够验证、值得长期维护的工程系统。**代码负责实现，文档负责让设计、边界与取舍可以被理解。**
 
 > *"Good tools should be boring in the best way — predictable, composable, and trustworthy."*
 >
@@ -33,9 +33,10 @@
 ### 🧭 正在探索
 
 - **MCP** —— Model Context Protocol 生态与协议设计
-- **Memory** —— Agent 长期记忆与向量检索
-- **Safety** —— 工具调用的权限边界与沙箱执行
-- **DX** —— 编码 Agent 的工程化交付
+- **Memory** —— 长期记忆、实体与时间感知检索、上下文预算
+- **Reliability** —— 发布、告警与运行证据的关联及可追溯诊断
+- **Agent UX** —— 有边界、可审计、可组合的工具与工作流
+- **Creative Computing** —— 音乐节奏、代码画面与可复现的媒体生成
 
 <img alt="" width="430" height="1" src="https://raw.githubusercontent.com/Weiki886/Weiki886/main/assets/spacer.png">
 
@@ -44,10 +45,10 @@
 
 ### 🛠️ 工程偏好
 
-- 本地优先 · 默认只读 · 写操作可审计
-- 单二进制 / 零配置的极致开发者体验
-- 设计文档先行，测试与实现同行
-- 自动化优先：重复三次的事，就把它做成工具
+- 先明确数据、权限与失败边界，再扩展能力
+- 让检索与诊断保留来源、时间和决策依据
+- 优先选择可复现、可观测、可恢复的实现
+- 设计文档先行，测试与实现同行，自动化服务于真实工作流
 
 <img alt="" width="430" height="1" src="https://raw.githubusercontent.com/Weiki886/Weiki886/main/assets/spacer.png">
 
@@ -87,6 +88,12 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=111827)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![CommonMark](https://img.shields.io/badge/CommonMark-333333?style=flat-square)
 
 <img src="https://img.shields.io/badge/Data%20%26%20AI-64748B?style=flat-square">
 
@@ -98,6 +105,9 @@
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7C3AED?style=flat-square)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-2D3748?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square)
 
 <img src="https://img.shields.io/badge/Infra%20%26%20Tools-64748B?style=flat-square">
 
@@ -109,6 +119,8 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Pandoc](https://img.shields.io/badge/Pandoc-386CB0?style=flat-square&logo=pandoc&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas%20API-1473E6?style=flat-square&logo=html5&logoColor=white)
 
 </div>
 
